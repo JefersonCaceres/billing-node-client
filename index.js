@@ -32,8 +32,8 @@ async function main() {
 
     const invoiceRequest = {
       items: [
-        { description: "Prod 1", quantity: 2, unit_price: 100000 }, 
-        { description: "Prod 2", quantity: 1, unit_price: 150000 }   
+        { description: "Prod 1", quantity: 2, unitPrice: 100000 }, 
+        { description: "Prod 2", quantity: 1, unitPrice: 150000 }   
       ]
     };
 
