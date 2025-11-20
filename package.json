@@ -1,0 +1,13 @@
+{
+  "name": "billing-node-client",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.2"
+  }
+}
